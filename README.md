@@ -14,7 +14,22 @@ Your users should be able to:
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
+### Solution
+
+- Live Site URL: https://otnielssilva.github.io/advice-generator-app/
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
 ## Faced problems during the challenges
 
 - Positioning the dice image
 	> I knew I could do it with positioning, but the concepts and differences between the property values weren't clear to me
+
+### Useful resources
+
+- Documentation I used to position the dice image - [w3schools css doc](https://www.w3schools.com/css/css_positioning.asp)
