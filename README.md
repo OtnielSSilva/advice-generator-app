@@ -18,6 +18,8 @@ Your users should be able to:
 
 - Live Site URL: https://otnielssilva.github.io/advice-generator-app/
 
+> :warning: In the Firefox browser, there's a problem with static pages. To refresh, use `Ctrl + Shift + R` or hold down `Shift` and click on the refresh button
+
 ### Built with
 
 - Semantic HTML5 markup
